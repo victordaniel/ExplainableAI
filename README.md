@@ -1,13 +1,8 @@
 # Audit verdict instability across equally accurate models
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23963573.svg)](https://doi.org/10.5281/zenodo.23963573)
-
-Archived release: Zenodo, doi:[10.5281/zenodo.23963573](https://doi.org/10.5281/zenodo.23963573) (v1.0.0;
-all versions: doi:10.5281/zenodo.23963572).
-
 Code, prespecified protocol and per-model results for:
 
->  G. Victor Daniel 
+> G. Victor Daniel
 > "One Model, One Verdict? Instability of Fairness and Explanation Audits Across Equally
 > Accurate Models" (manuscript submitted to *IEEE Access*).
 
