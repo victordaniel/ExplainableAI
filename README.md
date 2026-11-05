@@ -1,4 +1,5 @@
 # Audit verdict instability across equally accurate models
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23969508.svg)](https://doi.org/10.5281/zenodo.23969508)
 
 Code, prespecified protocol and per-model results for:
 
