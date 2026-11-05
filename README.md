@@ -2,7 +2,7 @@
 
 Code, prespecified protocol and per-model results for:
 
-> G. Victor Daniel
+> T. Jhansi Rani, G. Victor Daniel, Vinnakota Saran Chaitanya
 > "One Model, One Verdict? Instability of Fairness and Explanation Audits Across Equally
 > Accurate Models" (manuscript submitted to *IEEE Access*).
 
