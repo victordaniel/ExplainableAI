@@ -1,0 +1,17 @@
+dataset,check,m_star,agree_m1,n_div,n_tied
+acs_income,ALL,1,1.0,10,0
+acs_income,C1,1,1.0,10,0
+acs_income,C2,1,0.95235,10,0
+acs_income,C3,3,0.9399000000000001,10,0
+adult,ALL,1,1.0,10,0
+adult,C1,1,1.0,10,0
+adult,C2,1,1.0,10,0
+adult,C3,1,1.0,10,0
+compas,ALL,1,1.0,10,0
+compas,C1,1,1.0,10,0
+compas,C2,1,1.0,10,0
+compas,C3,15,0.70085,10,0
+german,ALL,9,0.88225,10,0
+german,C1,5,0.8772499999999999,10,0
+german,C2,9,0.85585,10,0
+german,C3,1,1.0,9,1

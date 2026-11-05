@@ -1,0 +1,10 @@
+# raw data are not redistributed (see README)
+data/
+# manuscript sources stay private until publication
+paper/
+paper_v2/
+# local artefacts
+__pycache__/
+*.pyc
+run_all.log
+pilot/

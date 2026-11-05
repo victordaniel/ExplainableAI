@@ -1,0 +1,5 @@
+dataset,rank_diff,c3_agree,jaccard
+acs_income,0.0,1.0,1.0
+adult,0.1,1.0,1.0
+compas,0.1,1.0,1.0
+german,0.0,1.0,1.0

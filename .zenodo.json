@@ -1,0 +1,13 @@
+{
+  "creators": [
+    {
+      "name": "Daniel, G. Victor",
+      "orcid": "0000-0003-1021-1576",
+      "affiliation": "Anurag University, Hyderabad, India"
+    }
+  ],
+  "title": "Audit verdict instability across equally accurate models: code, protocol and results",
+  "description": "Research code, experimental protocols, and results accompanying the paper.",
+  "upload_type": "software",
+  "license": "MIT"
+}
