@@ -5,6 +5,7 @@ version: 1.0.0
 date-released: 2026-11-05
 license: MIT
 repository-code: "https://github.com/victordaniel/ExplainableAI.git"
+doi: "10.5281/zenodo.23969508"
 authors:
   
   - family-names: "Daniel"
